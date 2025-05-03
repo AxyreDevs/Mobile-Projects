@@ -1,4 +1,4 @@
-# Game-Dev-Mobile
+# Mobile-Projects
 Repository to store files of my previously created mobile projects and/or games which have been purposed for learning game dev, thus they are not taken seriously as real games which I would otherwise continue to work on.  
 <br/>
 Consists of all my mobile projects done on a phone
